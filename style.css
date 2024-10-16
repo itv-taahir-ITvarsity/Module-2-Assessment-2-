@@ -1,0 +1,241 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+h1{
+    color: #000000;
+    padding-left: 30PX;
+}
+
+/*==========MENU==========*/
+#menu{
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 500;
+    width: 100%;
+    height: 110px;
+    background-color: rgb(0, 0, 0);
+    padding-left: 10PX;
+}
+
+#menu a{
+    text-decoration: none;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: none; 
+    font-weight: 500;
+    padding: 10px 15px;
+    float: left;
+}
+
+#menu a:hover{
+    color: rgb(16, 128, 162);
+}
+    
+#logo{
+    height: 30px;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+/*==========MAIN==========*/
+#main{
+    margin-top: 130px;
+}
+
+/*==========INFO-BOX-1==========*/
+a.info-box-1{
+    text-decoration: none;
+    background: url(images/shop.jpg) ;
+    width: 90%;
+    height: 800px;
+    display: block;
+    margin: auto;   
+    margin-top: 12px;
+    padding: 1px;
+}
+
+.info-box-1 h1{
+    padding-top: 30PX;
+    padding-left: 30PX;
+    margin-top: 0; 
+    width: 100%;
+    color: #e8dfdf;
+}
+
+.info-box-1 h2{
+    padding-top: 10PX;
+    padding-left: 30px;
+    margin-top: 0;
+    width: 100%;
+    color: #F9F9F9;
+}
+
+.info-box-1 h3{
+    padding-top: 500px;
+    padding-left: 30PX;
+    margin-top: 0;
+    width: 100%;
+    text-decoration: underline;
+    color: #f9f9f9;
+}
+
+/*==========INFO-BOX-2==========*/
+a.info-box-2{
+    text-decoration: none;
+    background: url(images/dine.jpg);
+    width: 90%;
+    height: 800px;
+    display: block;
+    margin: auto;   
+    margin-top: 12px;
+    padding: 1px;
+}
+
+.info-box-2 h1{
+    padding-top: 30PX;
+    padding-left: 30PX;
+    margin-top: 0; 
+    width: 100%;
+    color: #f9f9f9;
+}
+
+.info-box-2 h2{
+    padding-top: 10px;
+    padding-left: 30PX;
+    margin-top: 0;
+    width: 100%;
+    color: #F9F9F9;
+}
+
+.info-box-2 h3{
+    padding-top: 500px;
+    padding-left: 30PX;
+    margin-top: 0;
+    width: 100%;
+    text-decoration: underline;
+    color: #f9f9f9;
+}
+
+/*==========INFO-BOX-3==========*/
+a.info-box-3{
+    text-decoration: none;
+    background: url(images/entertainment.jpg) ;
+    width: 90%;
+    height: 800px;
+    display: block;
+    margin: auto;   
+    margin-top: 12px;
+    padding: 1px;
+}
+
+.info-box-3 h1{
+    padding-top: 30PX;
+    padding-left: 30PX;
+    margin-top: 0; 
+    width: 100%;
+    color: #f9f9f9;
+}
+
+.info-box-3 h2{
+    padding-top: 10px;
+    padding-left: 30PX;
+    margin-top: 0;
+    width: 100%;
+    color: #F9F9F9;
+}
+
+.info-box-3 h3{
+    padding-top: 500px;
+    padding-left: 30PX;
+    margin-top: 0;
+    width: 100%;
+    text-decoration: underline;
+    color: #f9f9f9;
+}
+
+/*==========INFO-BOX-SHOP-PAGE==========*/
+
+a.info-box{
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.453);
+    width: 90%;
+    height: 90px;
+    display: block;
+    margin: auto;
+    margin-top: 12px;
+    padding: 1px;
+}
+ 
+a.info-box img{
+    height: 70px;
+    margin: 10px;
+    float: left;
+}
+
+a.info-box h3{
+    padding: 10PX;
+    margin-top: 25px;
+    width: 90%;
+    color: white;
+}
+
+a.info-box h3{
+    padding: 40PX;
+    margin-top: 0;
+    width: 90%;
+    color: #ffffff;
+}
+
+/*==========INFO-BOX-STORES==========*/
+
+#info-box-full{
+    background-color: rgba(0, 0, 0, 0.244);
+    width: 90%;
+    display: block;
+    margin: auto;
+    margin-top: 12px;
+    padding: 10px;
+}
+
+#info-box-full img{
+    width: 100%;
+}
+
+#info-box-full a{
+    text-decoration: none;
+    color: #000000;
+}
+
+#info-box-full a:hover{
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
